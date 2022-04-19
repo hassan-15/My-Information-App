@@ -1,1 +1,1 @@
-# My-Information-App
+# Instagram
